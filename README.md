@@ -4,13 +4,12 @@ Các công việc khi làm luận văn:
 1. Thiết kế cơ sở dữ liệu 
 	- Đã thiết kế cơ bản xong, hiện em vẫn còn đang chỉnh sửa cơ sở dữ liệu cho sát với yêu cầu thầy đưa, em để sơ đồ vào mục Database, tuần kế tiếp em sẽ tạo cơ sở dữ liệu để qua bước thiết kế API. (hoàn thành)
 	- Đã cập nhật sơ đồ cơ sở dữ liệu và tạo xong cơ sở dữ liệu, tiếp theo sẽ tiến hành thiết kế API.
-2. Thiết kế API
+2. Thiết kế API (hoàn thành)
 	+ GET: thông tin các phòng khám, thông tin từng phòng khám,
 	các khung giờ trống, thông tin các dịch vụ, bảng giá các dịch vụ,
-	+ POST: đặt lịch, phòng khám đki thông tin
-	+ PUT: sửa thông tin đã đăng ký, cập nhật đặt lịch
-	+
-	+
+	+ POST: đặt lịch, phòng khám đki thông tin, thêm phòng khám, thêm khách hàng, thêm dịch vụ,...
+	+ PUT: sửa thông tin đã đăng ký, cập nhật đặt lịch,...
+	+ DELETE:xoá phòng khám, xoá lịch, xoá dịch vụ, xoá khách hàng,...
 
 3. Thiết kế giao diện
 	+ Thiết kế trang chủ
